@@ -1,8 +1,4 @@
 # G23
 Group 23 Applied Machine Learning
 
-
-# DEADLINE:
-
-Friday, April 24th at 9:30am (group report) + Tuesday, April 28th at 9:30am (individual essay)
-==================================
+An experimental machine learning pipeline using Google's recent developments in BERT. https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
